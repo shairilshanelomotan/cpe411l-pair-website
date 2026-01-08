@@ -129,12 +129,12 @@ footer {
   nav a {
     margin: 10px 0;
   }
-<<<<<<< HEAD
+
 
   .container h1 {
     font-size: 1.8rem;
   }
-=======
+
 }
 
 footer {
@@ -161,5 +161,21 @@ footer {
 
 .shop-btn:hover {
   background: #bc8a5f;
->>>>>>> 7abccedc7efbe8f433ea44a501c7230a11c152ab
+
+}
+#about-intro {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+#team h2 {
+    border-bottom: 2px solid #d4a373;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+#team ul {
+    list-style-type: square;
+    color: #555;
 }
