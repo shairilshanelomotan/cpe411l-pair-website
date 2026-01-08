@@ -143,6 +143,7 @@ footer {
     list-style-type: square;
     color: #555;
 }
+
 #contact-info {
     background: #fff;
     padding: 20px;
@@ -150,4 +151,21 @@ footer {
     display: inline-block;
     text-align: left;
     margin-top: 20px;
+
+#project-list ul {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+#project-list li {
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    color: #444;
+}
+
+#project-list {
+    max-width: 800px;
+    margin: 0 auto;
 }
