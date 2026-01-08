@@ -179,3 +179,16 @@ footer {
     list-style-type: square;
     color: #555;
 }
+
+#project-list ul {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+#project-list li {
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    color: #444;
+}
